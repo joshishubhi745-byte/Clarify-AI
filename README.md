@@ -126,7 +126,8 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-Add screenshots of the application interface here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/194c8772-ba79-49eb-9bb9-162f4bc5d50c" />
+
 
 ---
 
